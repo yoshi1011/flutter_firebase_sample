@@ -1,0 +1,2 @@
+# flutter_firebase_sample
+Flutter×Firebaseを書いてみるためのリポジトリ。暇があればいろいろ書いてみる
